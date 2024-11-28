@@ -1,0 +1,16 @@
+{
+  "name": "institutobarber",
+  "version": "1.0.0",
+  "description": "Projeto do Instituto Barber",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^5.10.9",
+    "sqlite3": "^5.1.7"
+  }
+}
